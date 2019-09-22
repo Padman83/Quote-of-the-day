@@ -12,7 +12,7 @@ Quote of the day
 * [Materialize] (https://materializecss.com)
 * [jQuery] (https://https://jquery.com)
 * [cdnjs] (https://cdnjs.com)
-* [typed.js] 
+* [typed.js] (https://mattboldt.com/demos/typed-js/)
 
 ## Contact
 Project Link:[https://github.com/Padman83/Quote-of-the-day]
