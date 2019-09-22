@@ -1,6 +1,7 @@
 # About The Project 
 Quote of the day
 
+![screencapture-padman83-github-io-Quote-of-the-day-2019-08-06-21_13_12](https://user-images.githubusercontent.com/45048950/65394273-16f21780-ddbe-11e9-926f-db0674a21f34.png)
 
 ### Code Editor
 * [Visual Studio Code] (https://code.visualstudio.com)
