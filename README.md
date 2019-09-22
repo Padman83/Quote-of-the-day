@@ -1,3 +1,18 @@
-# Quote of the day
+# About The Project 
+Quote of the day
 
-### Written in HTML, CSS and Typed.js animation library.
+
+### Code Editor
+* [Visual Studio Code] (https://code.visualstudio.com)
+
+### Design Tool
+* [Adobe XD] (https://www.adobe.com)
+
+### Built With
+* [Materialize] (https://materializecss.com)
+* [jQuery] (https://https://jquery.com)
+* [cdnjs] (https://cdnjs.com)
+* [typed.js] 
+
+## Contact
+Project Link:[https://github.com/Padman83/Quote-of-the-day]
