@@ -14,6 +14,7 @@ Quote of the day
 * [jQuery] (https://https://jquery.com)
 * [cdnjs] (https://cdnjs.com)
 * [typed.js] (https://mattboldt.com/demos/typed-js/)
+* [Google Fonts] (https://fonts.google.com)
 
 ## Contact
 Project Link:[https://github.com/Padman83/Quote-of-the-day]
