@@ -1,4 +1,4 @@
-![screencapture-padman83-github-io-Quote-of-the-day-2019-08-06-21_13_12](https://user-images.githubusercontent.com/45048950/65394273-16f21780-ddbe-11e9-926f-db0674a21f34.png)
+![ezgif com-optimize](https://user-images.githubusercontent.com/45048950/99277025-48526000-2868-11eb-898d-11c9a7a4983b.gif)
 
 ## 🧰 System Requirements + 🛠️ Built with:
 
